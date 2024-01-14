@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning javaScript, html, css, and php, and am proficient in python and java.
 - 💞️ I’m looking to collaborate on any projects that would help hone my skills and allow me to learn how to take on real-time projects
 - 📫 How to reach me: ayl2015@nyu.edu
-- My WebPortfolio (in progress) https://i6.cims.nyu.edu/~ayl2015/index.html
